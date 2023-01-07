@@ -1,0 +1,13 @@
+# This file contains values from Cookiecutter
+
+default_context:
+  project_name: "awstk"
+  project_description: "useful aws helper functions for cli administration of AWS"
+  organization: "awstk"
+  license: "Apache Software License 2.0"
+  minimal_python_version: 3.7
+  github_name: "awstk"
+  email: "charayaphan.nakorn.boon.han@gmail.com"
+  version: "0.1.0"
+  line_length: "88"
+  create_example_template: "cli"
